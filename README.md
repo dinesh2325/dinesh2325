@@ -15,25 +15,15 @@
 
 ## 🚀 About Me
 
-```typescript
-const dinesh = {
-  currentRole: "Member of Technical Staff Intern @ DevRev",
-  location: "Chennai, India",
-  education: "B.Tech ECE @ MNNIT Allahabad",
-  cgpa: "7.99/10",
-  
-  expertise: ["System Design", "Backend Development", "Competitive Programming"],
-  currentFocus: "Building scalable microservices and distributed systems",
-  
-  achievements: {
-    leetcode: "Knight Badge 🏆 | Top 5% Globally | Max Rating: 1881",
-    codeforces: "Pupil 💜 | Max Rating: 1310",
-    hackathons: ["2nd Place - CodeSangam 2023", "3rd Place - Codotron 2023"]
-  },
-  
-  motto: "Code with passion, innovate with purpose! 💻✨"
-}
-```
+- 🎓 **Education**: B.Tech in ECE @ MNNIT Allahabad (CGPA: 7.99/10)  
+- 🧑‍💻 **Current Role**: Member of Technical Staff Intern @ DevRev (Chennai, India)  
+- 💡 **Expertise**: System Design, Backend Development, Competitive Programming  
+- 🎯 **Current Focus**: Building scalable microservices and distributed systems  
+- 🏆 **Achievements**:  
+  - LeetCode: Knight Badge 🏆 | Top 5% Globally | Max Rating: 1881  
+  - Codeforces: Pupil 💜 | Max Rating: 1310  
+  - Hackathons: 2nd – CodeSangam 2023 | 3rd – Codotron 2023  
+- 💬 **Motto**: *Code with passion, innovate with purpose! 💻✨*
 
 ---
 
@@ -42,10 +32,10 @@ const dinesh = {
 ### 🔥 Current Role
 **Member of Technical Staff Intern** @ **DevRev** `Jan 2025 - Present`
 
-- 🏗️ **Built scalable Account De-duplication System** using **Golang**, **MongoDB**, and **RPCs**
-- ⚡ **Achieved 2x performance improvement** with **Jaro-Winkler** and **Levenshtein** algorithms  
-- 🎯 **Designed Generic De-duplication Architecture** supporting multiple object types
-- 🔄 **Developed Snap-in System** for real-time tracking with advanced RPC interfaces
+- 🏗️ Built a scalable **Account De-duplication System** using **Golang**, **MongoDB**, and **RPCs**
+- ⚡ Achieved **2x performance improvement** with **Jaro-Winkler** and **Levenshtein** algorithms  
+- 🎯 Designed **Generic De-duplication Architecture** supporting multiple object types
+- 🔄 Developed a **Snap-in System** for real-time tracking with advanced RPC interfaces
 - 📊 **Technologies**: `Golang` `TypeScript` `MongoDB` `Kafka` `Microservices` `Event-Driven Systems`
 
 ---
@@ -108,9 +98,9 @@ const dinesh = {
 </div>
 
 ### 🥇 Competition Highlights
-- 🥈 **2nd Place** - CodeSangam (Web Dev Event) | Avishkar 2023
-- 🥉 **3rd Place** - Codotron (DSA Event) | Avishkar 2023
-- 🏅 **100+ Participants** defeated in competitive programming events
+- 🥈 **2nd Place** - CodeSangam (Web Dev Event) | Avishkar 2023  
+- 🥉 **3rd Place** - Codotron (DSA Event) | Avishkar 2023  
+- 🏅 Defeated **100+ participants** in competitive programming contests  
 
 ---
 
@@ -184,30 +174,23 @@ const dinesh = {
 
 ## 🏃‍♂️ Current Focus & Goals
 
-```javascript
-const currentGoals = {
-  learning: [
-    "Advanced System Design Patterns",
-    "Distributed Systems Architecture", 
-    "Cloud Computing (AWS/GCP)",
-    "Performance Optimization Techniques"
-  ],
-  
-  building: [
-    "Scalable Microservices",
-    "High-Performance APIs",
-    "Real-time Applications",
-    "Open Source Contributions"
-  ],
-  
-  aiming: [
-    "Full-time SDE Role at Top Tech Companies",
-    "LeetCode Contest Rating > 2000",
-    "Contributing to major open source projects",
-    "Building products that impact millions"
-  ]
-}
-```
+### 📚 Learning
+- Advanced System Design Patterns  
+- Distributed Systems Architecture  
+- Cloud Computing (AWS/GCP)  
+- Performance Optimization Techniques  
+
+### 🔨 Building
+- Scalable Microservices  
+- High-Performance APIs  
+- Real-time Applications  
+- Open Source Contributions  
+
+### 🎯 Aiming
+- Full-time SDE Role at Top Tech Companies  
+- LeetCode Contest Rating > 2000  
+- Contributions to Major Open Source Projects  
+- Building Products that Impact Millions
 
 ---
 
@@ -236,7 +219,7 @@ const currentGoals = {
   <a href="https://drive.google.com/file/d/1eLmhOp5oGhXNuQ2DqJyYZGreJeygEy8o/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/📄_Resume-View_PDF-red?style=for-the-badge" alt="Resume"/>
   </a>
-  <a href="https://dinesh-portfolio-kappa.vercel.app/" target="_blank">
+  <a href="https://dineshpaliwal-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-blue?style=for-the-badge" alt="Portfolio"/>
   </a>
 </div>
@@ -248,7 +231,7 @@ const currentGoals = {
 </div>
 
 <div align="center">
-  <i>⭐ From <a href="https://github.com/dinesh2325">dinesh2325</a> - Let's build something amazing together! ��</i>
+  <i>⭐ From <a href="https://github.com/dinesh2325">dinesh2325</a> — Let’s build something amazing together!</i>
 </div>
 
-</div> 
+</div>
