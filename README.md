@@ -6,10 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Software+Engineer;System+Design+Enthusiast;Competitive+Programmer;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dinesh2325&label=Profile%20views&color=6C63FF&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/dinesh2325?label=Followers&style=social" alt="GitHub followers" />
-</p>
+
 
 ---
 
